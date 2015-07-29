@@ -9,7 +9,7 @@ echo "Resizing in post images"
 FILES=$(find src -iname '*.jpg' -or -iname '*.png' -or -iname '*.gif')
 
 # process the large images
-parallel -j8 convert {} -strip -resize "${LG_WIDTH}x${LG_HEIGHT}^" -gravity center -crop "${LG_WIDTH}x${LG_HEIGHT}+0+0" -background black -flatten -filter catrom "t_post/{/.}.jpg" ::: $FILES
+parallel -j8 convert {} -strip -resize "${LG_WIDTH}x${LG_HEIGHT}^" -gravity center -crop "${LG_WIDTH}x${LG_HEIGHT}+0+0" -background white -flatten -filter catrom "t_post/{/.}.jpg" ::: $FILES
 
 # process the image slices
 parallel -j8 convert "t_post/{/.}.jpg" -gravity center -crop "${TH_WIDTH}x${TH_HEIGHT}+0+0" -flatten -filter catrom -extent "${TH_WIDTH}x${TH_HEIGHT}" +repage "t_list/{/.}.jpg" ::: $FILES
