@@ -14,11 +14,15 @@ parallel -j8 convert {} -strip -resize "${LG_WIDTH}x${LG_HEIGHT}^" -gravity cent
 # process the image slices
 parallel -j8 convert "t_post/{/}" -gravity center -crop "${TH_WIDTH}x${TH_HEIGHT}+0+0" -filter catrom -extent "${TH_WIDTH}x${TH_HEIGHT}" +repage "t_list/{/}" ::: $FILES
 
-# compress the large images
-parallel -j8 jpeg-recompress --method smallfry --quality medium --min 60 "t_post/{/.}.jpg" "t_post/{/.}.jpg" ::: $FILES
+# compress jpg images
+parallel -j8 jpeg-recompress --method smallfry --quality medium --min 60 "{}" "{}" ::: t_post/*.jpg
+parallel -j8 jpeg-recompress --method smallfry --quality low --min 50 "{}" "{}" ::: t_list/*.jpg
 
-# compress the image slices
-parallel -j8 jpeg-recompress --method smallfry --quality low --min 50 "t_list/{/.}.jpg" "t_list/{/.}.jpg" ::: $FILES
+# compress png images
+parallel -j8 optipng -o 3 -fix -preserve "{}" -out "{}" ::: t_post/*.png
+parallel -j8 optipng -o 3 -fix -preserve "{}" -out "{}" ::: t_list/*.png
+parallel -j8 advdef --shrink-extra -z "{}" ::: t_post/*.png
+parallel -j8 advdef --shrink-extra -z "{}" ::: t_list/*.png
 
 echo " "
 echo "Completed resize operation"

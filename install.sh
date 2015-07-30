@@ -2,6 +2,10 @@ echo "Installing imagemagick"
 sudo apt-get install imagemagick
 
 echo " "
+echo "Installing optipng and advdef"
+sudo apt-get install optipng advancecomp
+
+echo " "
 echo "Installing gnu parallel"
 sudo apt-get install parallel
 
