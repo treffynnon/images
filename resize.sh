@@ -5,10 +5,11 @@ LG_HEIGHT=480
 TH_WIDTH=720
 TH_HEIGHT=70
 
-TOUCHFILE="./simonholywell-images.lastrun.time"
+TOUCHFILE="simonholywell-images.lastrun.time"
 
 if [ ! -f "$TOUCHFILE" ]; then
-    touch -t 201507201231.42 "$TOUCHFILE"
+    LAST_COMMIT_TIMESTAMP=$(git show -s --format=%ct)
+    touch -d "@$LAST_COMMIT_TIMESTAMP" "$TOUCHFILE"
 fi
 
 echo "Resizing in post images"
