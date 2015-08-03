@@ -8,7 +8,9 @@ TH_HEIGHT=70
 TOUCHFILE="simonholywell-images.lastrun.time"
 
 if [ ! -f "$TOUCHFILE" ]; then
+    # http://stackoverflow.com/a/19812608/461813
     LAST_COMMIT_TIMESTAMP=$(git show -s --format=%ct)
+    # http://unix.stackexchange.com/a/36765/10219
     touch -d "@$LAST_COMMIT_TIMESTAMP" "$TOUCHFILE"
 fi
 
