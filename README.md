@@ -11,10 +11,11 @@ as they are copyright.
 
 ## Rights
 
+* book.png - http://www.phparch.com
 * caterpillar.jpg - https://www.flickr.com/photos/wwarby/2405243938
 * clock.jpg - http://gratisography.com
 * conifer_cone.jpg - http://deathtothestockphoto.com
-* book.png - http://www.phparch.com
+* elephants.jpg - http://www.flickr.com/photos/21668613@N02/2240769403
 * iced_memory.jpg - http://www.flickr.com/photos/30486162@N00/521387016
 * mixing_desk.jpg - http://www.flickr.com/photos/27237408@N03/4530861996
 * modular_origami.jpg - http://www.flickr.com/photos/21649179@N00/9009772399
