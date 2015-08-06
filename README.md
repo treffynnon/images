@@ -16,6 +16,7 @@ as they are copyright.
 * book.png - http://www.phparch.com
 * iced_memory.jpg - http://www.flickr.com/photos/30486162@N00/521387016
 * mixing_desk.jpg - http://www.flickr.com/photos/27237408@N03/4530861996
+* modular_origami.jpg - http://www.flickr.com/photos/21649179@N00/9009772399
 * one_way.jpg - http://gratisography.com
 * robot.jpg - http://www.flickr.com/photos/24178047@N06/5382039579
 * small_plant.jpg - http://deathtothestockphoto.com
