@@ -11,6 +11,7 @@ as they are copyright.
 
 ## Rights
 
+* caterpillar.jpg - https://www.flickr.com/photos/wwarby/2405243938
 * clock.jpg - http://gratisography.com
 * conifer_cone.jpg - http://deathtothestockphoto.com
 * book.png - http://www.phparch.com
