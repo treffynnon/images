@@ -11,6 +11,7 @@ as they are copyright.
 
 ## Rights
 
+* bike_knee_down.jpg - http://www.flickr.com/photos/21649179@N00/9009772399
 * book.png - http://www.phparch.com
 * caterpillar.jpg - https://www.flickr.com/photos/wwarby/2405243938
 * clock.jpg - http://gratisography.com
