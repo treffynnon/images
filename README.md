@@ -14,6 +14,7 @@ as they are copyright.
 * bike_knee_down.jpg - http://www.flickr.com/photos/21649179@N00/9009772399
 * brisbane_river.jpg - me
 * book.png - http://www.phparch.com
+* chisel.jpg - https://www.rawpixel.com/referral/2f7792b7
 * caterpillar.jpg - https://www.flickr.com/photos/wwarby/2405243938
 * caterpillar2.jpg - https://www.flickr.com/photos/berniedup/10478846253/
 * clock.jpg - http://gratisography.com
