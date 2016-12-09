@@ -19,6 +19,7 @@ as they are copyright.
 * caterpillar2.jpg - https://www.flickr.com/photos/berniedup/10478846253/
 * clock.jpg - http://gratisography.com
 * conifer_cone.jpg - http://deathtothestockphoto.com
+* dry_stone_wall.jpg - https://www.rawpixel.com/referral/2f7792b7
 * elephants.jpg - http://www.flickr.com/photos/21668613@N02/2240769403
 * iced_memory.jpg - http://www.flickr.com/photos/30486162@N00/521387016
 * mixing_desk.jpg - http://www.flickr.com/photos/27237408@N03/4530861996
