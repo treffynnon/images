@@ -1,3 +1,4 @@
-/mozjpeg
-/jpeg-archive
-/simonholywell-images.lastrun.time
+/t_list
+/t_post
+/node_modules
+.DS_STORE

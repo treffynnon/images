@@ -11,19 +11,19 @@ const jpeg = require('imagemin-jpeg-recompress');
 
 gulp.task('resize', function () {
   return gulp.src('src/*')
-    .pipe(changed('test_post'))
+    .pipe(changed('t_post'))
     .pipe(resize({
       width: 720,
       height: 480
     }))
     .pipe(moderateImageMin())
-    .pipe(gulp.dest('test_post'))
+    .pipe(gulp.dest('t_post'))
     .pipe(resize({
       width: 720,
       height: 70
     }))
     .pipe(harshImageMin())
-    .pipe(gulp.dest('test_list'));
+    .pipe(gulp.dest('t_list'));
 });
 
 function moderateImageMin() {
