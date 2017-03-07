@@ -28,6 +28,7 @@ as they are copyright.
 * modern_workshop.jpg - http://deathtothestockphoto.com/
 * modular_origami.jpg - http://www.flickr.com/photos/21649179@N00/9009772399
 * one_way.jpg - http://gratisography.com
+* peacock.jpg - me
 * robot.jpg - http://www.flickr.com/photos/24178047@N06/5382039579
 * small_plant.jpg - http://deathtothestockphoto.com
 * sundial.jpg - http://www.flickr.com/photos/58939349@N00/3753289404
