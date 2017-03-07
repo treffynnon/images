@@ -21,6 +21,7 @@ as they are copyright.
 * conifer_cone.jpg - http://deathtothestockphoto.com
 * dry_stone_wall.jpg - https://www.rawpixel.com/referral/2f7792b7
 * elephants.jpg - http://www.flickr.com/photos/21668613@N02/2240769403
+* farmer_rice_paddy.jpg - https://www.rawpixel.com/referral/2f7792b7
 * iced_memory.jpg - http://www.flickr.com/photos/30486162@N00/521387016
 * mixing_desk.jpg - http://www.flickr.com/photos/27237408@N03/4530861996
 * modern_workshop.jpg - http://deathtothestockphoto.com/
@@ -29,5 +30,6 @@ as they are copyright.
 * robot.jpg - http://www.flickr.com/photos/24178047@N06/5382039579
 * small_plant.jpg - http://deathtothestockphoto.com
 * sundial.jpg - http://www.flickr.com/photos/58939349@N00/3753289404
+* tie_shoes_skateboard.jpg - https://www.rawpixel.com/referral/2f7792b7
 * zebra_tussle.jpg - http://www.flickr.com/photos/26782864@N00/7144577871
 
