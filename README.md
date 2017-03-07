@@ -12,11 +12,12 @@ as they are copyright.
 ## Rights
 
 * bike_knee_down.jpg - http://www.flickr.com/photos/21649179@N00/9009772399
-* brisbane_river.jpg - me
 * book.png - http://www.phparch.com
-* chisel.jpg - https://www.rawpixel.com/referral/2f7792b7
+* book2.png - http://www.phparch.com
+* brisbane_river.jpg - me
 * caterpillar.jpg - https://www.flickr.com/photos/wwarby/2405243938
 * caterpillar2.jpg - https://www.flickr.com/photos/berniedup/10478846253/
+* chisel.jpg - https://www.rawpixel.com/referral/2f7792b7
 * clock.jpg - http://gratisography.com
 * conifer_cone.jpg - http://deathtothestockphoto.com
 * dry_stone_wall.jpg - https://www.rawpixel.com/referral/2f7792b7
@@ -30,6 +31,7 @@ as they are copyright.
 * robot.jpg - http://www.flickr.com/photos/24178047@N06/5382039579
 * small_plant.jpg - http://deathtothestockphoto.com
 * sundial.jpg - http://www.flickr.com/photos/58939349@N00/3753289404
+* tamiya_manta_ray.jpg - me
 * tie_shoes_skateboard.jpg - https://www.rawpixel.com/referral/2f7792b7
 * zebra_tussle.jpg - http://www.flickr.com/photos/26782864@N00/7144577871
 
