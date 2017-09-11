@@ -24,6 +24,7 @@ as they are copyright.
 * elephants.jpg - http://www.flickr.com/photos/21668613@N02/2240769403
 * farmer_rice_paddy.jpg - https://www.rawpixel.com/referral/2f7792b7
 * iced_memory.jpg - http://www.flickr.com/photos/30486162@N00/521387016
+* light_blur.jpg - http://gratisography.com
 * mixing_desk.jpg - http://www.flickr.com/photos/27237408@N03/4530861996
 * modern_workshop.jpg - http://deathtothestockphoto.com/
 * modular_origami.jpg - http://www.flickr.com/photos/21649179@N00/9009772399
